@@ -1,1 +1,3 @@
 # HttpClientP
+
+Polly based HttpClient
